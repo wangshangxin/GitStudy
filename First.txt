@@ -6,3 +6,5 @@ This is on Dev branch
 
 
 haha im master
+
+Creating a new branch is quick & simple.
