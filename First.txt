@@ -1,18 +1,1 @@
-aaaaaaaaaaaaa
-
-
-This is on Dev branch
-
-
-
-haha im master
-
-
-Creating a new branch is quick & simple.
-
-
-im in feature1
-
-
-
-hehehe
+Friday Test
