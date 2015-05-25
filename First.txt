@@ -4,3 +4,5 @@ On dev Branch
 On issue1
 
 SourceTress test1
+
+Test stash
